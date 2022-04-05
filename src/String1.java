@@ -3,7 +3,7 @@ import javax.swing.*;
 public class String1 {
     public static void main(String[] args) {
         String a = JOptionPane.showInputDialog("Vilken text vill du reversera?");
-       String b = reverse(a);
+          String b = reverse(a);
 
          System.out.println(b);
     }
